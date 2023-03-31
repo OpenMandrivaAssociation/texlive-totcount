@@ -1,6 +1,6 @@
 Name:		texlive-totcount
 Version:	21178
-Release:	1
+Release:	2
 Summary:	Find the last value of a counter
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/totcount
