@@ -3,7 +3,7 @@ Version:	21178
 Release:	2
 Summary:	Find the last value of a counter
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/totcount
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/totcount
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/totcount.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/totcount.doc.r%{version}.tar.xz
